@@ -1,0 +1,4 @@
+
+variable "windowvm" {}
+
+variable "linuxvm" {}
